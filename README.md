@@ -5,6 +5,6 @@ Publication, reproduction, or sharing of this repository’s contents is strictl
 All rights are reserved by the project owner. Any premature publication or disclosure without consent may result in project or legal action.
 
 Release Status: Pending
-Authorized Release Date: [Insert Date]
+Authorized Release Date: [N/A]
 
 https://www.youtube.com/watch?v=lwbcPk_hogk
